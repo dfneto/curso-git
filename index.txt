@@ -1,1 +1,4 @@
 alo
+
+
+git add serve para adicionar arquivos novos e adicionar arquivos alterados
